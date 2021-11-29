@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2fc01a2-68ba-41c7-95c2-8dbf6a5fafdb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../apigateway-service/src/main/java/com/example/apigatewayservice/config/FilterConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bean-test/.idea/bean-test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first-service/src/main/java/com/example/firstservice/FirstServiceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/src/main/java/hello/login/domain/member/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/src/main/java/hello/login/domain/member/MemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/src/main/java/hello/login/web/member/MemberController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/src/main/resources/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/src/main/resources/templates/members/addMemberForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order-service/src/main/java/com/example/orderservice/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order-service/src/main/java/com/example/orderservice/dto/OrderDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order-service/src/main/java/com/example/orderservice/jpa/OrderEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order-service/src/main/java/com/example/orderservice/jpa/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order-service/src/main/java/com/example/orderservice/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order-service/src/main/java/com/example/orderservice/service/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order-service/src/main/java/com/example/orderservice/vo/RequestOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order-service/src/main/java/com/example/orderservice/vo/ResponseOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleaf-basic/src/main/java/hello/thymeleaf/basic/TemplateController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/basic/attribute.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/basic/basic-objects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/basic/block.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/basic/comments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/basic/condition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/basic/date.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/basic/each.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/basic/javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/basic/link.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/basic/literal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/basic/operation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/template/fragment/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/template/fragment/fragmentMain.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/template/layout/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/template/layout/layoutMain.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/template/layoutExtend/layoutExtendMain.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/template/layoutExtend/layoutFile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/src/main/java/com/example/userservice/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/src/main/java/com/example/userservice/vo/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user-service/src/main/java/com/example/userservice/vo/ResponseOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/src/main/java/hello/thymeleaf/basic/BasicController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thymeleaf-basic/src/main/java/hello/thymeleaf/basic/BasicController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21ZtgHQ3euTACMnMvyWbtmCkAYl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MTHome" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\spring-cloud-git-local-repo" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2fc01a2-68ba-41c7-95c2-8dbf6a5fafdb" name="Changes" comment="" />
+      <created>1638160548016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638160548016</updated>
+      <workItem from="1638160549670" duration="4264000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
